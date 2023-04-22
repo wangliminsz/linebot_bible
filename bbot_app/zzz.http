@@ -1,0 +1,11 @@
+###
+Post https://southeastasia.tts.speech.microsoft.com/cognitiveservices/v1
+Content-Type: application/ssml+xml
+Ocp-Apim-Subscription-Key: a57492ce5fda417f87989ad82e806b86
+# X-Microsoft-OutputFormat: audio-48khz-192kbitrate-mono-mp3
+X-Microsoft-OutputFormat: raw-48khz-16bit-mono-pcm
+
+<speak version='1.0' xml:lang='en-US'><voice xml:lang='en-US' xml:gender='Male'
+    name='en-US-ChristopherNeural'>
+        Microsoft Speech Service Text-to-Speech API
+</voice></speak>

@@ -1,0 +1,1 @@
+web: gunicorn b_bot.wsgi
